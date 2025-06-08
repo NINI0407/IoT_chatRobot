@@ -7,7 +7,7 @@ from google import genai
 from google.genai.types import LiveConnectConfig, SpeechConfig, VoiceConfig, PrebuiltVoiceConfig
 
 # ✍️ 配置常數
-PROJECT_ID = "YOUR_PROJECT_ID"
+PROJECT_ID = "gen-lang-client-0116814157"
 LOCATION = "us-central1"
 MODEL = "gemini-2.0-flash-live-preview-04-09"
 INPUT_RATE = 16000
